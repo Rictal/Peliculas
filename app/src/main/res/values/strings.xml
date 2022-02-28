@@ -1,0 +1,16 @@
+<resources>
+    <string name="app_name">PeliculasListView</string>
+
+    <string name="peli1">Unforgiven</string>
+    <string name="peli2">Por unos dolares mas</string>
+    <string name="peli3">Django</string>
+    <string name="peli4">El bueno, el malo y el feo</string>
+    <string name="peli5">3:10 a Yuma</string>
+
+    <string name="peli1_sinopsis">Un viejo pistolero, su ex compañero y un joven muy rápido para disparar, se dedican a cazar recompensas en una ciudad llamada Big Whiskey. Los tres saldrán en busca de dos hombres que le cortaron la cara a una prostituta.</string>
+    <string name="peli2_sinopsis">Dos cazarrecompensas persiguen al líder de una banda de forajidos que está aterrorizando la zona del suroeste. En un principio los hombres se ven como rivales, pero acabarán colaborando para dar caza a este infame criminal.</string>
+    <string name="peli3_sinopsis">Un antiguo esclavo une sus fuerzas con un cazador de recompensas alemán que lo libera y ayuda a cazar a los criminales más buscados del Sur, todo ello con la esperanza de encontrar a su esposa perdida hace mucho tiempo.</string>
+    <string name="peli4_sinopsis">3Tres hombres violentos pelean por una caja que alberga 200 000 dólares, la cual fue escondida durante la Guerra Civil. Dado que ninguno puede encontrar la tumba donde está el botín sin la ayuda de los otros dos, deben colaborar, pese a odiarse.</string>
+    <string name="peli5_sinopsis">El forajido Ben Wade aterroriza Arizona alrededor del año 1800, especialmente al tren del sur, hasta que finalmente es capturado. Wade debe ser llevado a juicio, por lo que Dan Evans, dueño de un rancho afectado por la sequía, se ofrece a escoltar a Wade hasta el tren. Durante el viaje, surge un gran respeto entre los hombres, pero el peligro se asoma en cada esquina.</string>
+
+</resources>
